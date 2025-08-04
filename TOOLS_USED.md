@@ -34,7 +34,7 @@ This document lists the tools, platforms, and libraries used for developing the 
 ## 📊 Dataset
 
 - Source: Kaggle Network Intrusion Detection Dataset  
-  [https://www.kaggle.com/datasets/sampadab17/networkintrusion-detection](https://www.kaggle.com/datasets/sampadab17/networkintrusion-detection)
+  [https://www.kaggle.com/datasets/sampadab17/networkintrusion-detection](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection)
 
 ---
 
