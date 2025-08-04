@@ -24,7 +24,7 @@ The solution uses a publicly available dataset to train and deploy a classificat
 - **IBM Cloud Object Storage**
 - **IBM Watson Machine Learning**
 - **IBM AutoAI**
-- Dataset: [Kaggle - Network Intrusion Detection Dataset](https://www.kaggle.com/datasets/sampadab17/networkintrusion-detection)
+- Dataset: [Kaggle - Network Intrusion Detection Dataset](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection)
 
 ---
 
